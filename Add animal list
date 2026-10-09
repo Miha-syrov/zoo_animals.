@@ -1,0 +1,6 @@
+animals = ["Лев", "Тигр", "Слон", "Волк", "Лиса"]
+
+print("Список животных:")
+
+for animal in animals:
+    print(animal)
